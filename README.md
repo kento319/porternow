@@ -30,3 +30,6 @@ Use `porternowlv.com` as the custom domain when ready.
 ## Pricing
 - Las Vegas Strip service: $35
 - Off-Strip service: $65
+
+## Image Assets
+- `assets/hero-porternow.png` — homepage hero image
